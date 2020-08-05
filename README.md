@@ -8,6 +8,7 @@ VENV Virtual environment looks like this:
 ![screenshot](screenshot_venv.png)
 
 The prompt has multiple segments:  
+- VENV: in Cyan. Wrapped in cozy parentheses.
 - Folder: in blue. Displays the folder name, or full path. Replaces the user's home folder with a tilde (~).  
 - npm: in teal. If it detects an npm package, it displays the package name and version number.  
 - Git: in green or yellow. If it detects a Git repo, it displays the branch name. A green color is used if no changes are detected. A yellow color is used if changes are found.  
