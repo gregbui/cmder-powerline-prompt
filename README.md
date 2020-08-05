@@ -4,6 +4,9 @@ This is a custom prompt for [Cmder](http://cmder.net/) (the alternative console 
 It looks like this:  
 ![screenshot](screenshot.png)
 
+VENV Virtual environment looks like this:
+![screenshot](screenshot_venv.png)
+
 The prompt has multiple segments:  
 - Folder: in blue. Displays the folder name, or full path. Replaces the user's home folder with a tilde (~).  
 - npm: in teal. If it detects an npm package, it displays the package name and version number.  
